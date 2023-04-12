@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Decentralised Databases**
 
-- 👨‍💻 All of my projects are available at [https://jayanth-kumar-morem.github.io/](https://jayanth-kumar-morem.github.io/)
+- 👨‍💻 All of my projects are available at [projects.jayanth-kumar.wiki](https://jayanth-kumar-morem.github.io/archive)
 
 - 📝 I regularly write articles on [https://devfolio.co/@7benson](https://devfolio.co/@7benson)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **jayanthkumar1903@gmail.com**
 
-- 📄 Know about my experiences [https://jayanth-kumar-morem.github.io/resume.pdf](https://jayanth-kumar-morem.github.io/resume.pdf)
+- 📄 Know about my experiences [resume](https://jayanth-kumar-morem.github.io/resume.pdf)
 
 - ⚡ Fun fact **I'm a huge fan of escape rooms and have successfully escaped from every one I've been in so far!**
 
