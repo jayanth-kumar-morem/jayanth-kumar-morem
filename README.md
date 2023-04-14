@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Real Time WebApps Development**
 
-- 🤝 I’m looking for help with **Decentralised Databases**
+- 🤝 I’m looking for help in **Contributing to Open Source**
 
 - 👨‍💻 All of my projects are available at [projects.jayanth-kumar.wiki](https://jayanth-kumar-morem.github.io/archive)
 
