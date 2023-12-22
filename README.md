@@ -4,13 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/jayanthkumar777" target="blank"><img src="https://img.shields.io/twitter/follow/jayanthkumar777?logo=twitter&style=for-the-badge" alt="jayanthkumar777" /></a> </p>
 
-- 🔭 I’m currently working on **WiFi7**
+- 🔭 I’m currently working on **GoLang/CPP**
 
 - 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on **Real Time WebApps Development**
-
-- 🤝 I’m looking for help in **Contributing to Open Source**
 
 - 👨‍💻 All of my projects are available at [projects.jayanth-kumar.wiki](https://jayanth-kumar-morem.github.io/archive)
 
